@@ -6,6 +6,7 @@ I used the [Markov Models for Infectious Diseases](https://clas.ucdenver.edu/mar
 Parameters:
 
 beta - the transmission rate of the disease (realistically a function of the rate of contact and probability of transmission given contact)
+
 gamma - recovery rate of infected people
 
 Example output:
